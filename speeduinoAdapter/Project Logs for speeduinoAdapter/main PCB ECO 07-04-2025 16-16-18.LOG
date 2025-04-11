@@ -1,0 +1,48 @@
+Added Pin To Net: NetName=BREAK SW Pin=J3-12
+Added Net: Name=BREAK SW
+Added Pin To Net: NetName=CEL Pin=J3-20
+Added Net: Name=CEL
+Added Pin To Net: NetName=COOLANT TEMP Pin=J1-37
+Added Pin To Net: NetName=COOLANT TEMP Pin=J3-54
+Added Net: Name=COOLANT TEMP
+Added Pin To Net: NetName=FANC Pin=J3-27
+Added Net: Name=FANC
+Added Pin To Net: NetName=FP REL Pin=J1-31
+Added Pin To Net: NetName=FP REL Pin=J3-17
+Added Net: Name=FP REL
+Added Pin To Net: NetName=IACV Pin=J3-18
+Added Net: Name=IACV
+Added Pin To Net: NetName=ICM Pin=J3-24
+Added Pin To Net: NetName=ICM Pin=J3-32
+Added Net: Name=ICM
+Added Pin To Net: NetName=INJ1 Pin=J1-1
+Added Pin To Net: NetName=INJ1 Pin=J3-1
+Added Net: Name=INJ1
+Added Pin To Net: NetName=INJ2 Pin=J1-3
+Added Pin To Net: NetName=INJ2 Pin=J3-2
+Added Net: Name=INJ2
+Added Pin To Net: NetName=INJ3 Pin=J1-5
+Added Pin To Net: NetName=INJ3 Pin=J3-3
+Added Net: Name=INJ3
+Added Pin To Net: NetName=INJ4 Pin=J1-9
+Added Pin To Net: NetName=INJ4 Pin=J3-4
+Added Net: Name=INJ4
+Added Pin To Net: NetName=LGICGND Pin=J3-10
+Added Net: Name=LGICGND
+Added Pin To Net: NetName=MAP Pin=J1-21
+Added Pin To Net: NetName=MAP Pin=J3-56
+Added Net: Name=MAP
+Added Pin To Net: NetName=PWRGND Pin=J3-7
+Added Pin To Net: NetName=PWRGND Pin=J3-9
+Added Pin To Net: NetName=PWRGND Pin=J3-33
+Added Pin To Net: NetName=PWRGND Pin=J3-41
+Added Net: Name=PWRGND
+Added Pin To Net: NetName=STARTERSIG Pin=J3-37
+Added Net: Name=STARTERSIG
+Added Pin To Net: NetName=VBAT Pin=J3-8
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VSPEEDSENS Pin=J3-45
+Added Net: Name=VSPEEDSENS
+Added Pin To Net: NetName=VTEC Pin=J3-58
+Added Net: Name=VTEC
+Added Member To Class: ClassName=main Member=Component J2 SBH11-PBPC-D20-ST-BK

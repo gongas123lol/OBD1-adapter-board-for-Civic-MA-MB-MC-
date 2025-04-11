@@ -1,0 +1,13 @@
+Added Component: Designator=J?(1745187)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "174518-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/174518-7/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/174518-7/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "21.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "174518-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-174518-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/174518-7?qs=13zqzmHBAMHCi5ru1NMUcA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ?_50 Pin=J?-50
+Added Pin To Net: NetName=NetJ?_50 Pin=J?-51
+Added Net: Name=NetJ?_50
+Added Class: Name=main

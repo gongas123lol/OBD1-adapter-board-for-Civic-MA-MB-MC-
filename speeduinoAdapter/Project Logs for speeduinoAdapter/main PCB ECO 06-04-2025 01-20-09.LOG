@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=J? Old Footprint=61304021821 New Footprint=SHDR40W64P254_2X20_5830X910X910P
+Change Component Comment : Designator=J? Old Comment=61304021821 New Comment=SBH11-PBPC-D20-ST-BK
+Change Managed Component Library Link : Designator=J? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=EF5615ED-6A92-4DAB-BA12-4ED6D3DB6775 New ItemGUID= Old RevisionGUID=09012351-5DC6-41F7-95F6-3C9DA97A7DB0 New RevisionGUID=
+Change component parameters: Designator = "J?" ("J?"); Footprint = "61304021821"; UniqueID = "\DVTPVSUW" ("\DVTPVSUW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/11091.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SBH11-PBPC-D20-ST-BK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=main Member=Component J? SBH11-PBPC-D20-ST-BK

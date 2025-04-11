@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=VTEC Pin=J3-58
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Added Pin To Net: NetName=VTEC Pin=J3-5
+Add Pin To Net: Unknown Pin: Pin J7-5
+Add Pin To Net: Unknown Pin: Pin J7-7
+Add Pin To Net: Unknown Pin: Pin J7-8
+Add Pin To Net: Unknown Pin: Pin J7-9
+Add Pin To Net: Unknown Pin: Pin J7-10
+Add Pin To Net: Unknown Pin: Pin J7-12
+Add Pin To Net: Unknown Pin: Pin J7-13
+Add Pin To Net: Unknown Pin: Pin J7-14
+Add Pin To Net: Unknown Pin: Pin J7-15
+Add Pin To Net: Unknown Pin: Pin J7-16
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J8-9
+Add Pin To Net: Unknown Pin: Pin J8-13
+Add Pin To Net: Unknown Pin: Pin J8-15
+Add Pin To Net: Unknown Pin: Pin J8-16
+Add Pin To Net: Unknown Pin: Pin J9-3
+Add Pin To Net: Unknown Pin: Pin J9-7
+Add Pin To Net: Unknown Pin: Pin J9-11
+Add Pin To Net: Unknown Pin: Pin J10-4
+Add Pin To Net: Unknown Pin: Pin J10-6
+Add Pin To Net: Unknown Pin: Pin J10-16
+Added Pin To Net: NetName=CLUTCH Pin=J3-36
+Added Net: Name=CLUTCH
+Added Pin To Net: NetName=IAT Pin=J3-55
+Added Net: Name=IAT
+Added Pin To Net: NetName=IGN Pin=J3-44
+Added Net: Name=IGN
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_11 Pin=J3-11
+Added Net: Name=NetJ3_11
+Added Pin To Net: NetName=NetJ3_14 Pin=J3-14
+Added Net: Name=NetJ3_14
+Added Pin To Net: NetName=NetJ3_16 Pin=J3-16
+Added Net: Name=NetJ3_16
+Added Pin To Net: NetName=NetJ3_19 Pin=J3-19
+Added Net: Name=NetJ3_19
+Added Pin To Net: NetName=NetJ3_21 Pin=J3-21
+Added Net: Name=NetJ3_21
+Added Pin To Net: NetName=NetJ3_22 Pin=J3-22
+Added Net: Name=NetJ3_22
+Added Pin To Net: NetName=NetJ3_23 Pin=J3-23
+Added Net: Name=NetJ3_23
+Added Pin To Net: NetName=NetJ3_25 Pin=J3-25
+Added Net: Name=NetJ3_25
+Added Pin To Net: NetName=NetJ3_26 Pin=J3-26
+Added Net: Name=NetJ3_26
+Added Pin To Net: NetName=NetJ3_28 Pin=J3-28
+Added Net: Name=NetJ3_28
+Added Pin To Net: NetName=NetJ3_29 Pin=J3-29
+Added Net: Name=NetJ3_29
+Added Pin To Net: NetName=NetJ3_30 Pin=J3-30
+Added Net: Name=NetJ3_30
+Added Pin To Net: NetName=NetJ3_31 Pin=J3-31
+Added Net: Name=NetJ3_31
+Added Pin To Net: NetName=NetJ3_34 Pin=J3-34
+Added Net: Name=NetJ3_34
+Added Pin To Net: NetName=NetJ3_35 Pin=J3-35
+Added Net: Name=NetJ3_35
+Added Pin To Net: NetName=NetJ3_38 Pin=J3-38
+Added Net: Name=NetJ3_38
+Added Pin To Net: NetName=NetJ3_39 Pin=J3-39
+Added Net: Name=NetJ3_39
+Added Pin To Net: NetName=NetJ3_40 Pin=J3-40
+Added Net: Name=NetJ3_40
+Added Pin To Net: NetName=NetJ3_42 Pin=J3-42
+Added Net: Name=NetJ3_42
+Added Pin To Net: NetName=NetJ3_43 Pin=J3-43
+Added Net: Name=NetJ3_43
+Added Pin To Net: NetName=NetJ3_46 Pin=J3-46
+Added Net: Name=NetJ3_46
+Added Pin To Net: NetName=NetJ3_47 Pin=J3-47
+Added Net: Name=NetJ3_47
+Added Pin To Net: NetName=NetJ3_48 Pin=J3-48
+Added Net: Name=NetJ3_48
+Added Pin To Net: NetName=NetJ3_49 Pin=J3-49
+Added Net: Name=NetJ3_49
+Added Pin To Net: NetName=NetJ3_50 Pin=J3-50
+Added Net: Name=NetJ3_50
+Added Pin To Net: NetName=NetJ3_51 Pin=J3-51
+Added Net: Name=NetJ3_51
+Added Pin To Net: NetName=NetJ3_52 Pin=J3-52
+Added Net: Name=NetJ3_52
+Added Pin To Net: NetName=NetJ3_57 Pin=J3-57
+Added Net: Name=NetJ3_57
+Added Pin To Net: NetName=NetJ3_59 Pin=J3-59
+Added Net: Name=NetJ3_59
+Added Pin To Net: NetName=NetJ3_60 Pin=J3-60
+Added Net: Name=NetJ3_60
+Added Pin To Net: NetName=NetJ3_61 Pin=J3-61
+Added Net: Name=NetJ3_61
+Added Pin To Net: NetName=NetJ3_62 Pin=J3-62
+Added Net: Name=NetJ3_62
+Added Pin To Net: NetName=NetJ3_63 Pin=J3-63
+Added Net: Name=NetJ3_63
+Added Pin To Net: NetName=NetJ3_64 Pin=J3-64
+Added Net: Name=NetJ3_64
+Added Pin To Net: NetName=TPS Pin=J3-53
+Added Net: Name=TPS
+Added Pin To Net: NetName=VCC_MAP Pin=J3-13
+Added Net: Name=VCC_MAP
+Added Pin To Net: NetName=VCC_TPS Pin=J3-15
+Added Net: Name=VCC_TPS
+Added Pin To Net: NetName=VTCP Pin=J3-58
+Added Net: Name=VTCP
+Add Class Member: Failed to add class member : Component J7 61301611121
+Add Class Member: Failed to add class member : Component J8 61301611121
+Add Class Member: Failed to add class member : Component J9 61301611121
+Add Class Member: Failed to add class member : Component J10 61301611121

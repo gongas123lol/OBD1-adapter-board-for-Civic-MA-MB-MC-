@@ -1,0 +1,111 @@
+Add Component: Footprint Not Found SHDR40W64P254_2X20_5830X910X910P
+Add Component: Footprint Not Found SHDR40W64P254_2X20_5830X910X910P
+Add Component: Footprint Not Found 1745187
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Add Component: Footprint Not Found HDRV16W79P0X254_1X16_4064X254X874P
+Added Net: Name=BREAK SW
+Added Net: Name=CEL
+Added Net: Name=CLUTCH
+Added Net: Name=COOLANT TEMP
+Added Net: Name=FANC
+Added Net: Name=FP REL
+Added Net: Name=IACV
+Added Net: Name=IAT
+Added Net: Name=ICM
+Added Net: Name=IGN
+Added Net: Name=INJ1
+Added Net: Name=INJ2
+Added Net: Name=INJ3
+Added Net: Name=INJ4
+Added Net: Name=LGICGND
+Added Net: Name=MAP
+Added Net: Name=NetJ2_1
+Added Net: Name=NetJ2_2
+Added Net: Name=NetJ2_3
+Added Net: Name=NetJ2_4
+Added Net: Name=NetJ2_5
+Added Net: Name=NetJ2_6
+Added Net: Name=NetJ2_7
+Added Net: Name=NetJ2_8
+Added Net: Name=NetJ2_9
+Added Net: Name=NetJ2_10
+Added Net: Name=NetJ2_11
+Added Net: Name=NetJ2_12
+Added Net: Name=NetJ2_13
+Added Net: Name=NetJ2_14
+Added Net: Name=NetJ2_15
+Added Net: Name=NetJ2_16
+Added Net: Name=NetJ2_17
+Added Net: Name=NetJ2_18
+Added Net: Name=NetJ2_19
+Added Net: Name=NetJ2_20
+Added Net: Name=NetJ2_21
+Added Net: Name=NetJ2_22
+Added Net: Name=NetJ2_23
+Added Net: Name=NetJ2_24
+Added Net: Name=NetJ2_25
+Added Net: Name=NetJ2_26
+Added Net: Name=NetJ2_27
+Added Net: Name=NetJ2_28
+Added Net: Name=NetJ2_29
+Added Net: Name=NetJ2_30
+Added Net: Name=NetJ2_31
+Added Net: Name=NetJ2_32
+Added Net: Name=NetJ2_33
+Added Net: Name=NetJ2_34
+Added Net: Name=NetJ2_35
+Added Net: Name=NetJ2_36
+Added Net: Name=NetJ2_37
+Added Net: Name=NetJ2_38
+Added Net: Name=NetJ2_39
+Added Net: Name=NetJ2_40
+Added Net: Name=NetJ3_6
+Added Net: Name=NetJ3_11
+Added Net: Name=NetJ3_14
+Added Net: Name=NetJ3_16
+Added Net: Name=NetJ3_19
+Added Net: Name=NetJ3_21
+Added Net: Name=NetJ3_22
+Added Net: Name=NetJ3_23
+Added Net: Name=NetJ3_25
+Added Net: Name=NetJ3_26
+Added Net: Name=NetJ3_28
+Added Net: Name=NetJ3_29
+Added Net: Name=NetJ3_30
+Added Net: Name=NetJ3_31
+Added Net: Name=NetJ3_34
+Added Net: Name=NetJ3_35
+Added Net: Name=NetJ3_38
+Added Net: Name=NetJ3_39
+Added Net: Name=NetJ3_40
+Added Net: Name=NetJ3_42
+Added Net: Name=NetJ3_43
+Added Net: Name=NetJ3_46
+Added Net: Name=NetJ3_47
+Added Net: Name=NetJ3_48
+Added Net: Name=NetJ3_49
+Added Net: Name=NetJ3_50
+Added Net: Name=NetJ3_51
+Added Net: Name=NetJ3_52
+Added Net: Name=NetJ3_57
+Added Net: Name=NetJ3_59
+Added Net: Name=NetJ3_60
+Added Net: Name=NetJ3_61
+Added Net: Name=NetJ3_62
+Added Net: Name=NetJ3_63
+Added Net: Name=NetJ3_64
+Added Net: Name=PWRGND
+Added Net: Name=STARTERSIG
+Added Net: Name=TPS
+Added Net: Name=VBAT
+Added Net: Name=VCC_MAP
+Added Net: Name=VCC_TPS
+Added Net: Name=VSPEEDSENS
+Added Net: Name=VTCP
+Added Net: Name=VTEC
+Added Class: Name=main

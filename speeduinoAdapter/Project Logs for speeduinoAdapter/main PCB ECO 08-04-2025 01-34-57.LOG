@@ -1,0 +1,114 @@
+Added Component: Designator=J7(HDRV16W79P0X254_1X16_4064X254X874P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/61301611121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61301611121?qs=PhR8RmCirEYq%2F9PEO1%2F%252B%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J8(HDRV16W79P0X254_1X16_4064X254X874P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/61301611121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61301611121?qs=PhR8RmCirEYq%2F9PEO1%2F%252B%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J9(HDRV16W79P0X254_1X16_4064X254X874P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/61301611121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61301611121?qs=PhR8RmCirEYq%2F9PEO1%2F%252B%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J10(HDRV16W79P0X254_1X16_4064X254X874P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/61301611121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61301611121?qs=PhR8RmCirEYq%2F9PEO1%2F%252B%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV16W79P0X254_1X16_4064X254X874P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/61301611121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61301611121?qs=PhR8RmCirEYq%2F9PEO1%2F%252B%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ3_16 Pin=J7-1
+Added Pin To Net: NetName=VCC_TPS Pin=J7-2
+Added Pin To Net: NetName=NetJ3_14 Pin=J7-3
+Added Pin To Net: NetName=VCC_MAP Pin=J7-4
+Added Pin To Net: NetName=BREAK SW Pin=J7-5
+Added Pin To Net: NetName=NetJ3_11 Pin=J7-6
+Added Pin To Net: NetName=LGICGND Pin=J7-7
+Added Pin To Net: NetName=PWRGND Pin=J7-8
+Added Pin To Net: NetName=VBAT Pin=J7-9
+Added Pin To Net: NetName=PWRGND Pin=J7-10
+Added Pin To Net: NetName=NetJ3_6 Pin=J7-11
+Added Pin To Net: NetName=VTEC Pin=J7-12
+Added Pin To Net: NetName=INJ4 Pin=J7-13
+Added Pin To Net: NetName=INJ3 Pin=J7-14
+Added Pin To Net: NetName=INJ2 Pin=J7-15
+Added Pin To Net: NetName=INJ1 Pin=J7-16
+Added Pin To Net: NetName=ICM Pin=J8-1
+Added Pin To Net: NetName=NetJ3_31 Pin=J8-2
+Added Pin To Net: NetName=NetJ3_30 Pin=J8-3
+Added Pin To Net: NetName=NetJ3_29 Pin=J8-4
+Added Pin To Net: NetName=NetJ3_28 Pin=J8-5
+Added Pin To Net: NetName=FANC Pin=J8-6
+Added Pin To Net: NetName=NetJ3_26 Pin=J8-7
+Added Pin To Net: NetName=NetJ3_25 Pin=J8-8
+Added Pin To Net: NetName=ICM Pin=J8-9
+Added Pin To Net: NetName=NetJ3_23 Pin=J8-10
+Added Pin To Net: NetName=NetJ3_22 Pin=J8-11
+Added Pin To Net: NetName=NetJ3_21 Pin=J8-12
+Added Pin To Net: NetName=CEL Pin=J8-13
+Added Pin To Net: NetName=NetJ3_19 Pin=J8-14
+Added Pin To Net: NetName=IACV Pin=J8-15
+Added Pin To Net: NetName=FP REL Pin=J8-16
+Added Pin To Net: NetName=NetJ3_35 Pin=J9-1
+Added Pin To Net: NetName=CLUTCH Pin=J9-2
+Added Pin To Net: NetName=STARTERSIG Pin=J9-3
+Added Pin To Net: NetName=NetJ3_38 Pin=J9-4
+Added Pin To Net: NetName=NetJ3_39 Pin=J9-5
+Added Pin To Net: NetName=NetJ3_40 Pin=J9-6
+Added Pin To Net: NetName=PWRGND Pin=J9-7
+Added Pin To Net: NetName=NetJ3_42 Pin=J9-8
+Added Pin To Net: NetName=NetJ3_43 Pin=J9-9
+Added Pin To Net: NetName=IGN Pin=J9-10
+Added Pin To Net: NetName=VSPEEDSENS Pin=J9-11
+Added Pin To Net: NetName=NetJ3_46 Pin=J9-12
+Added Pin To Net: NetName=NetJ3_47 Pin=J9-13
+Added Pin To Net: NetName=NetJ3_48 Pin=J9-14
+Added Pin To Net: NetName=NetJ3_49 Pin=J9-15
+Added Pin To Net: NetName=NetJ3_50 Pin=J9-16
+Added Pin To Net: NetName=NetJ3_51 Pin=J10-1
+Added Pin To Net: NetName=NetJ3_52 Pin=J10-2
+Added Pin To Net: NetName=TPS Pin=J10-3
+Added Pin To Net: NetName=COOLANT TEMP Pin=J10-4
+Added Pin To Net: NetName=IAT Pin=J10-5
+Added Pin To Net: NetName=MAP Pin=J10-6
+Added Pin To Net: NetName=NetJ3_57 Pin=J10-7
+Added Pin To Net: NetName=VTCP Pin=J10-8
+Added Pin To Net: NetName=NetJ3_59 Pin=J10-9
+Added Pin To Net: NetName=NetJ3_60 Pin=J10-10
+Added Pin To Net: NetName=NetJ3_61 Pin=J10-11
+Added Pin To Net: NetName=NetJ3_62 Pin=J10-12
+Added Pin To Net: NetName=NetJ3_63 Pin=J10-13
+Added Pin To Net: NetName=NetJ3_64 Pin=J10-14
+Added Pin To Net: NetName=NetJ3_34 Pin=J10-15
+Added Pin To Net: NetName=PWRGND Pin=J10-16
+Added Member To Class: ClassName=main Member=Component J7 61301611121
+Added Member To Class: ClassName=main Member=Component J8 61301611121
+Added Member To Class: ClassName=main Member=Component J9 61301611121
+Added Member To Class: ClassName=main Member=Component J10 61301611121
+Added Member To Class: ClassName=main Member=Component J? 61301611121
