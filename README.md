@@ -4,7 +4,7 @@
 
 ## Speeduino v0.4.X adapter for OBD1 vehicles
 
-This repo is dedicated for an adapter with two modes: Honda OBD1 (civic MA/MB and probably MC) PnP connector, and Breakout Board for other vehicles.
+This repo is dedicated for an adapter with two modes: Honda OBD1 (civic MA/MB and probably MC // british made Civic. maybe also PNP for japan made ones like eg/ek with adapter) PnP connector, and Breakout Board for other vehicles.
 This project was made in altium designer, might one day put it in kicad but i dont really have the skills in kicad for it. in a bit i will upload the Gerber files.
 
 ## The pin names will be based on this schema.
