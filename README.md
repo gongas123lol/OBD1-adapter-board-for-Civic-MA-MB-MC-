@@ -20,3 +20,5 @@ you can find the connector for cheap on aliexpress (many places its discontinued
 https://pt.aliexpress.com/item/1005007591892669.html?spm=a2g0o.cart.0.0.2fc87f06R6iyNA&mp=1&pdp_npi=5%40dis%21EUR%21EUR%207.80%21EUR%207.80%21%21%21%21%21%40211b430817443848121853057ee6ae%2112000041420786593%21ct%21PT%213638394249%21%211%210&gatewayAdapt=glo2bra
 # link to my website:
 # https://goncaloferraz.vercel.app/home
+
+![image](https://github.com/user-attachments/assets/4dcd22b2-d341-49cb-9d83-de7b8c180b90)
