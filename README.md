@@ -17,6 +17,7 @@ This project was made in altium designer, might one day put it in kicad but i do
 ![image](https://github.com/user-attachments/assets/a9731034-c55a-4e95-91d3-ba7a5337a097)
 
 you can find the connector for cheap on aliexpress (many places its discontinued)
-https://pt.aliexpress.com/item/1005007591892669.html?spm=a2g0o.cart.0.0.2fc87f06R6iyNA&mp=1&pdp_npi=5%40dis%21EUR%21EUR%207.80%21EUR%207.80%21%21%21%21%21%40211b430817443848121853057ee6ae%2112000041420786593%21ct%21PT%213638394249%21%211%210&gatewayAdapt=glo2bra
+https://pt.aliexpress.com/item/1005006126524106.html?spm=a2g0o.order_list.order_list_main.5.65a3caa4wb4JMO&gatewayAdapt=glo2bra
+** UPDATE: THIS CONNECTOR ALTOUGHT HAS A DIFERENT P/N IS AN EXACT FIT. **
 # link to my website:
 # https://goncaloferraz.vercel.app/home
